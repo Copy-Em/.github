@@ -90,16 +90,3 @@ Finally, performance is tuned for modern Macs. On **Apple Silicon** and Intel sy
 ## Tags (Extended SEO)
 
 copy em • copy 'em mac • copyem clipboard • clipboard manager mac • paste history mac • clipboard history macOS • snippet manager mac • canned responses mac • multiple paste mac • clipboard templates mac • clipboard search mac • clipboard rules mac • pin snippets mac • transform text mac • strip formatting mac • paste without formatting mac • paste queue mac • auto paste mac • clipboard privacy mac • exclude apps clipboard • developer clipboard tool mac • support replies templates mac • research copy tool mac • copy images clipboard mac • copy file paths mac • cloud clipboard mac • apple silicon clipboard app • productivity clipboard mac • hotkey paste mac • quick paste numbers mac • clipboard favorites mac • clipboard folders mac • smart collections clipboard mac • merge clippings mac
-
----
-
-## Descriptions
-
-### 🚀 Short Description  
-Copy ’Em for Mac is a fast clipboard manager that saves everything you copy—text, images, files—and lets you search, pin, organize, transform, and multi-paste snippets with keyboard-driven speed.
-
-### 📜 Description 1 (~350 chars)  
-Copy ’Em captures your clipboard history on macOS and makes it instantly reusable. Pin favorites, search by keyword/type/app, create folders and smart lists, and paste multiple items in sequence. Transform text (case, trim, strip styles), store canned responses as templates, and protect privacy with exclusions and auto-clear rules. Optimized for Apple Silicon.
-
-### 📜 Description 2 (~350 chars)  
-Stop losing snippets. Copy ’Em records text, images, files, and links, then lets you organize with pins, folders, and rules. Use hotkeys for quick paste, merge clippings, and convert formatting on the fly. Ideal for writers, devs, support teams, and researchers who need reliable, searchable clipboard history with strong privacy controls on macOS.
